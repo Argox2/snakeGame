@@ -1,7 +1,9 @@
 
 # Snake Game - README
 
-## Updates
+The classic snake game where the player maneuvers a growing line.
+
+## Future updates
 
     - Collision with walls. 
     - Rememeber the higher score. 
